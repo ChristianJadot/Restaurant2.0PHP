@@ -1,8 +1,5 @@
 # Restaurant2.0PHP
-Reprendre le site Bootstrap du Restaurant et le dynamiser en PHP
-
-
-# restaurant-css-framework
+Reprendre le site Bootstrap du Restaurant et le dynamiser en PHP<br><br>
 Retrouvez ici toutes les informations concernant le site Restaurant BeCool Cooking en version PHP...
 C'est-à-dire toutes les techniques utilisées, les endroits d'où proviennent les photos présentent sur le site ainsi que le lien direct vers le site BeCool Cooking.
 
