@@ -26,7 +26,7 @@ C'est-à-dire toutes les techniques utilisées, les endroits d'où proviennent l
 ## Voici le site réalisé
 [Je vous présente BeCool Cooking, en version PHP](https://christianjadot.github.io/Restaurant2.0PHP/)
 
-##### [color=#00FF00]! Un site en PHP ne peut pas être visualisé depuis ce serveur[/color] !
+[color=#00FF00]! Un site en PHP ne peut pas être visualisé depuis ce serveur[/color] !
 
 <a name="Realisation"></a>
 ## Réalisation
