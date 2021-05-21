@@ -18,13 +18,15 @@ C'est-à-dire toutes les techniques utilisées, les endroits d'où proviennent l
 <a name="Nom-et-logo-du-projet-site-internet"></a>
 ## Nom et logo du projet-site internet
 
-![alt text](https://christianjadot.github.io/Restaurant2.0PHP/images/becool-logo-black.png "BeCool Cooking")
+![alt text](https://christianjadot.github.io/restaurant-css-framework/images/becool-logo-black.png "BeCool Cooking")
 
 # BeCool Cooking - Restaurant
 
 <a name="Voici-le-site-réalise"></a>
 ## Voici le site réalisé
 [Je vous présente BeCool Cooking, en version PHP](https://christianjadot.github.io/Restaurant2.0PHP/)
+
+### Un site en PHP ne peut pas être visualisé depuis ce serveur !
 
 <a name="Realisation"></a>
 ## Réalisation
@@ -42,9 +44,9 @@ Voici le repo sur [Github](https://github.com/ChristianJadot/Restaurant2.0PHP)
 
 <a name="Code-et-langages-utilises"></a>
 ## Code et langages utilisés
-HTML5 / CSS3
-Bootstrap 4.6
-PHP 7
+HTML5 / CSS3<br>
+Bootstrap 4.6<br>
+PHP 7<br>
 
 <a name="Photos-licences"></a>
 ## Photos licences
